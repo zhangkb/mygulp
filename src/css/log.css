@@ -1,0 +1,6 @@
+body {
+	color: #fff;
+	border-radius: 1px solid #fff;
+	transition-delay: 2s;
+	transform:rotate(30deg);
+}

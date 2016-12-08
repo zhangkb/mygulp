@@ -1,0 +1,1 @@
+{"version":3,"sources":["log.css"],"names":[],"mappings":"AAAA,KACC,MAAA,KACA,cAAA,IAAA,MAAA,KACA,iBAAA,GACA,UAAA","file":"log.css","sourcesContent":["body {\r\n\tcolor: #fff;\r\n\tborder-radius: 1px solid #fff;\r\n\ttransition-delay: 2s;\r\n\ttransform:rotate(30deg);\r\n}"]}
